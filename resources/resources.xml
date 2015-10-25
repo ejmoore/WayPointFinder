@@ -1,0 +1,5 @@
+<resources>
+    <string id="AppName">WheredIPark</string>
+	<bitmap id="background" filename="images/Solid_white.png" />
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+</resources>
